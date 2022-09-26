@@ -1,0 +1,32 @@
+{
+    "version" : "1.0",
+    "directoryInfo" : {
+        "name" : "Wind Turbine Farm 1"   
+    },
+    "buildingLevels": {
+        "levels": [
+            {
+                "levelName": "Windfarm",
+                "ordinal": 0,
+                "filename": "./wind_farm.dwg"
+            }
+        ]
+    },
+    "georeference": {
+        "lat": 47.636152,
+        "lon": -122.132600,
+        "angle": 0
+    },
+    "dwgLayers": {
+        "exterior": [
+            "OUTLINE"
+        ],
+        "unit": [
+            "UNITS"
+        ],
+        "unitLabel": [
+            "UNITLABELS"
+        ]
+    }
+   
+} 
